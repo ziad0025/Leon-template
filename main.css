@@ -126,7 +126,7 @@ header .links:hover ul{
 /* End header */
 /* Start landing section */
 .landing {
-    background-image:linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 1)), url(photo/background.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.80), rgba(0, 0, 0, 0.80)), url(photo/background.jpg);
     background-size: cover;
     height: calc(100vh - 60px );
     display: flex;
